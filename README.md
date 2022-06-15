@@ -92,3 +92,15 @@
 ## Project Prep Deck 
 
 [Final Project Deck](https://docs.google.com/presentation/d/1dWolPdbrgHnupMhS6balcW6C11EsglGrzgB6pRs1ZUo/edit?usp=sharing)
+
+## Wireframe
+
+![wireframe](img/wireframe.png)
+
+## Domain Modeling
+
+![domainmodel](img/domainmodel.png)
+
+## Database Schema Diagram
+
+![schemamodel](img/schemamodel.png)
